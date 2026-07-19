@@ -199,6 +199,3 @@ uart.c
 ## Author
 
 **Pratham Gorey**
-
-* LinkedIn: https://www.linkedin.com/in/prathamgorey29/
-* GitHub: https://github.com/PRATHAMg29
